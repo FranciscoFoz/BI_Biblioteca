@@ -24,4 +24,4 @@
 
 <h1> </p>Link do Dashboard </h1>
 
-<a href="https://dados.ufrn.br/dataset/acervo-biblioteca/resource/e3d3e784-1349-4a8f-ad09-86e893328f9e" target="_blank">Dashboard</a>
+<a href="https://app.powerbi.com/reportEmbed?reportId=8598360d-e736-4d31-9f88-d7c80e779838&autoAuth=true&ctid=b7845ad6-74cd-4782-aea9-57359643b87b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">Dashboard</a>
