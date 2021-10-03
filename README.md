@@ -20,7 +20,9 @@
 <ul> Utilizei o Power BI como ferramenta para ETL e construção do dashboard. </ul>
 
 
-<br>
+<h1> </p>Arquivo .pbix </h1>
+
+<a href="https://drive.google.com/file/d/1D8Thkh1lknm9x5Fo9f9XJPRrQCCcogap/view?usp=sharing" target="_blank">Acesse aqui</a>
 
 <h1> </p>Link do Dashboard </h1>
 
