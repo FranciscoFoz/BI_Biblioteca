@@ -1,7 +1,7 @@
 **<h1>Business Intelligence em Bibliotecas</h1>**
 <br>
 <h2>Dashboard de exemplo de Business Intelligence em biblioteca universitária </h2>
-<p>Este projeto está ligado diretamente a este <a href="" target="_blank">artigo</a> . </p>
+<p>Este projeto está ligado diretamente a este <a href="https://franciscofoz.medium.com/business-intelligence-em-bibliotecas-com-power-bi-4065df7b232c" target="_blank">artigo</a> . </p>
   
 <p> Com o objetivo de exemplificar a ideia da realização de um BI com os dados de uma biblioteca universitária, foi desenvolvido um dashboard inicial com os dados do sistema de bibliotecas da UFRN.</p>
 
