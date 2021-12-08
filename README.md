@@ -1,4 +1,10 @@
 **<h1>Business Intelligence em Bibliotecas</h1>**
+
+![](https://miro.medium.com/max/12032/0*eWTpUnfJeayibPBD)
+
+Photo by [Devon Divine](https://unsplash.com/@lightrisephoto?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
+
+
 <br>
 <h2>Dashboard de exemplo de Business Intelligence em biblioteca universitária </h2>
 <p>Este projeto está ligado diretamente a este <a href="https://franciscofoz.medium.com/business-intelligence-em-bibliotecas-com-power-bi-4065df7b232c" target="_blank">artigo</a> . </p>
@@ -27,3 +33,7 @@
 <h1> </p>Link do Dashboard </h1>
 
 <a href="https://app.powerbi.com/reportEmbed?reportId=8598360d-e736-4d31-9f88-d7c80e779838&autoAuth=true&ctid=b7845ad6-74cd-4782-aea9-57359643b87b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">Dashboard</a>
+
+<h1> </p> Vídeo </h1>
+
+[Link](https://youtu.be/rPVQNRotf48)
