@@ -32,7 +32,7 @@ Photo by [Devon Divine](https://unsplash.com/@lightrisephoto?utm_source=medium&u
 ![image](https://user-images.githubusercontent.com/64700794/167269315-23e0a2be-ed86-49ba-89db-1208a8d7d511.png)
 ![image](https://user-images.githubusercontent.com/64700794/167269338-1e992e14-3125-4228-b9ea-126f3d03e9a6.png)
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiZjNkMzM5MGEtYTlkOS00Y2E1LWJmODEtNzQ2MTIxYTEzMmE2IiwidCI6IjcxMmY5ZGI0LTY0MDctNDA3NS04NDZhLTUyZDAwYWZkOTNmZiJ9" target="_blank">Acesse o dashboard aqui</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZjNkMzM5MGEtYTlkOS00Y2E1LWJmODEtNzQ2MTIxYTEzMmE2IiwidCI6IjcxMmY5ZGI0LTY0MDctNDA3NS04NDZhLTUyZDAwYWZkOTNmZiJ9&pageName=ReportSection44da907599044c09df45">Acesse o dashboard aqui</a>
 
 
 <h1> </p> Vídeo </h1>
