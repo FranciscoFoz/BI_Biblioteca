@@ -7,7 +7,7 @@ O objetivo desse projeto foi desenvolver um dashboard para exemplificar a aplica
 | -------------  | --- |
 | :sparkles: Nome        | **Business Intelligence em Bibliotecas**
 | :label: Tecnologias | power bi
-| :rocket: URL         | https://github.com/FranciscoFoz/BI_Biblioteca
+| :rocket: URL         |
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
