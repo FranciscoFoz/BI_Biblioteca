@@ -1,6 +1,17 @@
-**<h1>Business Intelligence em Bibliotecas</h1>**
+# Business Intelligence em Bibliotecas
 
-![](https://miro.medium.com/max/12032/0*eWTpUnfJeayibPBD)
+
+O objetivo desse projeto foi desenvolver um dashboard para exemplificar a aplicação de BI em bibliotecas, analisando os dados de empréstimos de livros em uma biblioteca universitária. 
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Business Intelligence em Bibliotecas**
+| :label: Tecnologias | power bi
+| :rocket: URL         | https://github.com/FranciscoFoz/BI_Biblioteca
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://miro.medium.com/max/12032/0*eWTpUnfJeayibPBD#vitrinedev)
 
 Photo by [Devon Divine](https://unsplash.com/@lightrisephoto?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
